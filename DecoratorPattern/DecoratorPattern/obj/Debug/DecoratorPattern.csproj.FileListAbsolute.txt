@@ -1,0 +1,9 @@
+C:\Users\allen_000\Desktop\MyProject\Design Patterms\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.dll
+C:\Users\allen_000\Desktop\MyProject\Design Patterms\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\allen_000\Desktop\MyProject\Design Patterms\DecoratorPattern\DecoratorPattern\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\allen_000\Desktop\MyProject\Design Patterms\DecoratorPattern\DecoratorPattern\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\allen_000\Desktop\MyProject\Design Patterms\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
+C:\Users\allen_000\Desktop\MyProject\Design Patterms\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.dll
+C:\Users\allen_000\Desktop\MyProject\Design Patterms\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+C:\Users\allen_000\Desktop\MyProject\Design Patterms\DecoratorPattern\DecoratorPattern\bin\Debug\Decorator.dll
+C:\Users\allen_000\Desktop\MyProject\Design Patterms\DecoratorPattern\DecoratorPattern\bin\Debug\Decorator.pdb
