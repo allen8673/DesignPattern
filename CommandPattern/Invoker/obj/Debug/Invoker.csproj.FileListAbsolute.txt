@@ -1,9 +1,0 @@
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\CommandPattern\Invoker\bin\Debug\Invoker.dll
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\CommandPattern\Invoker\bin\Debug\Invoker.pdb
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\CommandPattern\Invoker\bin\Debug\Command.dll
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\CommandPattern\Invoker\bin\Debug\Receiver.dll
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\CommandPattern\Invoker\bin\Debug\Command.pdb
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\CommandPattern\Invoker\bin\Debug\Receiver.pdb
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\CommandPattern\Invoker\obj\Debug\Invoker.csprojResolveAssemblyReference.cache
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\CommandPattern\Invoker\obj\Debug\Invoker.dll
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\CommandPattern\Invoker\obj\Debug\Invoker.pdb

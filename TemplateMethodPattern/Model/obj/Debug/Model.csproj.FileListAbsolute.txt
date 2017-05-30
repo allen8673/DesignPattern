@@ -1,5 +1,0 @@
-V:\SideProject\DesignPattern\TemplateMethodPattern\Model\bin\Debug\Model.dll
-V:\SideProject\DesignPattern\TemplateMethodPattern\Model\bin\Debug\Model.pdb
-V:\SideProject\DesignPattern\TemplateMethodPattern\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
-V:\SideProject\DesignPattern\TemplateMethodPattern\Model\obj\Debug\Model.dll
-V:\SideProject\DesignPattern\TemplateMethodPattern\Model\obj\Debug\Model.pdb

@@ -1,7 +1,0 @@
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\ObserverPattern\Observer\bin\Debug\Observer.dll
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\ObserverPattern\Observer\bin\Debug\Observer.pdb
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\ObserverPattern\Observer\bin\Debug\Subject.dll
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\ObserverPattern\Observer\bin\Debug\Subject.pdb
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\ObserverPattern\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\ObserverPattern\Observer\obj\Debug\Observer.dll
-C:\Users\allen_000\Desktop\MyProject\Design Patterms\ObserverPattern\Observer\obj\Debug\Observer.pdb
