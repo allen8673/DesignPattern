@@ -1,0 +1,7 @@
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethod\bin\Debug\TemplateMethod.dll
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethod\bin\Debug\TemplateMethod.pdb
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethod\obj\Debug\TemplateMethod.dll
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethod\obj\Debug\TemplateMethod.pdb
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethod\bin\Debug\Model.dll
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethod\bin\Debug\Model.pdb

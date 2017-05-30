@@ -1,0 +1,11 @@
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.dll
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csprojResolveAssemblyReference.cache
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.dll
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\Model.dll
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethod.dll
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\Model.pdb
+V:\SideProject\DesignPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethod.pdb
