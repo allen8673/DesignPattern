@@ -1,0 +1,7 @@
+V:\SideProject\DesignPattern\CompositePattern\Composite\bin\Debug\Composite.dll
+V:\SideProject\DesignPattern\CompositePattern\Composite\bin\Debug\Composite.pdb
+V:\SideProject\DesignPattern\CompositePattern\Composite\bin\Debug\Iterator.dll
+V:\SideProject\DesignPattern\CompositePattern\Composite\bin\Debug\Iterator.pdb
+V:\SideProject\DesignPattern\CompositePattern\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+V:\SideProject\DesignPattern\CompositePattern\Composite\obj\Debug\Composite.dll
+V:\SideProject\DesignPattern\CompositePattern\Composite\obj\Debug\Composite.pdb

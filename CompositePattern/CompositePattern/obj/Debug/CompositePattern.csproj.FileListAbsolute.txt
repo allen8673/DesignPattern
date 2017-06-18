@@ -1,0 +1,11 @@
+V:\SideProject\DesignPattern\CompositePattern\CompositePattern\bin\Debug\CompositePattern.dll
+V:\SideProject\DesignPattern\CompositePattern\CompositePattern\bin\Debug\CompositePattern.pdb
+V:\SideProject\DesignPattern\CompositePattern\CompositePattern\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+V:\SideProject\DesignPattern\CompositePattern\CompositePattern\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+V:\SideProject\DesignPattern\CompositePattern\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+V:\SideProject\DesignPattern\CompositePattern\CompositePattern\obj\Debug\CompositePattern.dll
+V:\SideProject\DesignPattern\CompositePattern\CompositePattern\obj\Debug\CompositePattern.pdb
+V:\SideProject\DesignPattern\CompositePattern\CompositePattern\bin\Debug\Composite.dll
+V:\SideProject\DesignPattern\CompositePattern\CompositePattern\bin\Debug\Iterator.dll
+V:\SideProject\DesignPattern\CompositePattern\CompositePattern\bin\Debug\Composite.pdb
+V:\SideProject\DesignPattern\CompositePattern\CompositePattern\bin\Debug\Iterator.pdb

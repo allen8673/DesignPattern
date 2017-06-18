@@ -1,0 +1,5 @@
+V:\SideProject\DesignPattern\CompositePattern\Iterator\bin\Debug\Iterator.dll
+V:\SideProject\DesignPattern\CompositePattern\Iterator\bin\Debug\Iterator.pdb
+V:\SideProject\DesignPattern\CompositePattern\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+V:\SideProject\DesignPattern\CompositePattern\Iterator\obj\Debug\Iterator.dll
+V:\SideProject\DesignPattern\CompositePattern\Iterator\obj\Debug\Iterator.pdb
